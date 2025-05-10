@@ -1,5 +1,5 @@
 # Auto WhatsApp Messenger 🚀
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/python-3.11-blue)
 
 - **🙋‍♂️ Author: Dattajagan**
 - **GitHub: @Dattajagan**
