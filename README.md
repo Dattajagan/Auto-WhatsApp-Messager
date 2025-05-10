@@ -1,9 +1,9 @@
 # Auto WhatsApp Messenger 🚀
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 Dattajagan
-GitHub: @Dattajagan
-Project Repo: Auto WhatsApp Messenger
+# GitHub: @Dattajagan
+# Project Repo: Auto WhatsApp Messenger
 
 A Python-based tool that automates sending WhatsApp messages using the WhatsApp Web interface with Selenium.
 
