@@ -8,6 +8,7 @@
 A Python-based tool that automates sending WhatsApp messages using the WhatsApp Web interface with Selenium.
 
 ## 📌 Features
+![Streamlit](https://img.shields.io/badge/streamlit-app-red)
 
 - ✅ Automatically send messages to saved contacts
 - ✅ Schedule messages with time delays
