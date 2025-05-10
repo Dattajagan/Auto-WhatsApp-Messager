@@ -1,6 +1,4 @@
-# WAutoMsg
-# Auto WhatsApp Messager 
-# Auto WhatsApp Messenger 🚀
+# WAutoMsg -> # Auto WhatsApp Messenger 🚀
 
 A Python-based tool that automates sending WhatsApp messages using the WhatsApp Web interface with Selenium.
 
