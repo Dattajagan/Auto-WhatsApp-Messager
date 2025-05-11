@@ -15,7 +15,6 @@ light_theme = {
     'entry_fg': '#000000'
 }
 
-
 dark_theme = {
     'bg': '#1e1e1e',
     'fg': '#ffffff',
